@@ -11,7 +11,7 @@ I enjoy turning ideas into code and building things that (hopefully) make sense.
 
 ### 🔒 [LWUI](https://lwui.joepduin.nl)
 > A local website UI that lets you run sites locally and securely expose them online via Cloudflare Tunnels.  
-Includes remote file editing, site management, and SMB shares — all through a clean and intuitive admin panel.
+Includes remote file editing, site management, and SMB shares. All through a clean and intuitive admin panel.
 
 🔗 [GitHub Repository](https://github.com/joepduin/LWUI)
 
