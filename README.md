@@ -36,7 +36,7 @@ Features draggable windows, retro design, and a fun interactive experience.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats 😒
 
 ![Joep's GitHub stats](https://github-readme-stats.vercel.app/api?username=joepduin&show_icons=true&theme=gruvbox)
 
