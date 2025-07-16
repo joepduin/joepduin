@@ -29,10 +29,10 @@ Features draggable windows, retro design, and a fun interactive experience.
 
 ## 💼 What I do
 
-- Turn ideas into clean, working code using HTML, CSS, JavaScript, and PHP
-- Solve problems one bug at a time
-- Learn new tools and tricks constantly
-- Build things that people find useful (and maybe even fun!)
+- Turn ideas into clean, working code using HTML, CSS, JavaScript, and PHP.
+- Solve problems one bug at a time.
+- Learn new tools and tricks constantly.
+- Build things that people find useful (and maybe even fun!).
 
 ---
 
@@ -45,7 +45,7 @@ Features draggable windows, retro design, and a fun interactive experience.
 ## 🤝 Let's connect
 
 - 🌍 Website: https://joepduin.nl/
-- 💬 Sent me a mail on [github@joepduin.nl](mailto:github@joepduin.nl) if you'd like to collaborate For collaborations, questions, or just to say hi
+- 💬 Sent me a mail on github@joepduin.nl if you'd like to collaborate For collaborations, questions, or just to say hi.
 
 ---
 
