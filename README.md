@@ -21,7 +21,7 @@ Includes remote file editing, site management, and SMB shares. All through a cle
 > A nostalgic portfolio website that mimics the classic Windows XP interface.  
 Features draggable windows, retro design, and a fun interactive experience.
 
-🔗 [GitHub Repository](https://github.com/joepduin/portfolio)
+🔗 [GitHub Repository](https://github.com/joepduin/windowsxp)
 
 **Stack:** HTML, CSS, JavaScript, PHP
 
