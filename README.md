@@ -3,7 +3,7 @@
 Powered by curiosity, coffee, and a bit too much time behind the keyboard.
 I enjoy turning ideas into code and building things that (hopefully) make sense.
 
-🌐 **Website:** https://joepduin.nl/
+🌐 **Website:** https://joepduin.dev/
 
 ---
 
@@ -17,7 +17,7 @@ Includes remote file editing, site management, and SMB shares. All through a cle
 
 **Stack:** JavaScript, Node.js, CSS
 
-### 🪟 [Windows XP Style Portfolio](https://portfolio.joepduin.nl)
+### 🪟 [Windows XP Style Portfolio](https://portfolio.joepduin.dev)
 > A nostalgic portfolio website that mimics the classic Windows XP interface.  
 Features draggable windows, retro design, and a fun interactive experience.
 
@@ -44,8 +44,8 @@ Features draggable windows, retro design, and a fun interactive experience.
 
 ## 🤝 Let's connect
 
-- 🌍 Website: https://joepduin.nl/
-- 💬 Sent me a mail on github@joepduin.nl if you'd like to collaborate For collaborations, questions, or just to say hi.
+- 🌍 Website: https://joepduin.dev/
+- 💬 Sent me a mail on info@joepduin.dev if you'd like to collaborate For collaborations, questions, or just to say hi.
 
 ---
 
