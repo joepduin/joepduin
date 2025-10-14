@@ -15,7 +15,7 @@ Includes remote file editing, site management, and SMB shares. All through a cle
 
 🔗 [GitHub Repository](https://github.com/joepduin/LWUI)
 
-**Stack:** JavaScript, Node.js, CSS
+**Stack:** HTML, CSS, JavaScript, Shell
 
 ### 🪟 [Windows XP Style Portfolio](https://portfolio.joepduin.dev)
 > A nostalgic portfolio website that mimics the classic Windows XP interface.  
