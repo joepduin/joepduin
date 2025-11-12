@@ -12,7 +12,7 @@ I enjoy turning ideas into code and building things that (hopefully) make sense.
 - Turn ideas into clean, working code using HTML, CSS, JavaScript, and PHP.
 - Solve problems one bug at a time.
 - Learn new tools and tricks constantly.
-- Build things that people find useful (and maybe even fun!).
+- Build things that people (maybe) find useful.
 
 ---
 
