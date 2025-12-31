@@ -1,9 +1,11 @@
+> I have updated my primary domain from joepduin.dev to joep.dev. I will be keeping both domains active, so all existing links will continue to work.
+
 # 👋 Hi there, I'm Joep!
 
 Powered by curiosity, coffee, and a bit too much time behind the keyboard.
 I enjoy turning ideas into code and building things that (hopefully) make sense.
 
-🌐 **Website:** https://joepduin.dev/
+🌐 **Website:** https://joep.dev/
 
 ---
 
@@ -24,8 +26,8 @@ I enjoy turning ideas into code and building things that (hopefully) make sense.
 
 ## 🤝 Let's connect
 
-- 🌍 Website: https://joepduin.dev/
-- 💬 Sent me a mail on info@joepduin.dev if you'd like to collaborate For collaborations, questions, or just to say hi.
+- 🌍 Website: https://joep.dev/
+- 💬 Sent me a mail on info@joep.dev if you'd like to collaborate For collaborations, questions, or just to say hi.
 
 ---
 
