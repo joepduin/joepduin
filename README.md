@@ -20,7 +20,7 @@ I enjoy turning ideas into code and building things that (hopefully) make sense.
 
 ## 📊 GitHub Stats
 
-![Joep's GitHub stats](https://github-readme-stats.vercel.app/api?username=joepduin&show_icons=true&theme=gruvbox) Down at the moment.
+![Joep's GitHub stats](https://github-readme-stats.vercel.app/api?username=joepduin&show_icons=true&theme=gruvbox)
 
 ---
 
